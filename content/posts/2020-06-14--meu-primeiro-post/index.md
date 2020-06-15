@@ -1,15 +1,46 @@
 ---
-title: "Meu primeiro post"
+title: "Um pouco sobre mim..."
 date: "2020-06-14"
-description: "Illas semine campoque declivia oppida corpora nam inter fuit discordia tellus solidumque iunctarum erat: quae terrenae ubi rerum recessit"
+description: "Minha Jornada no Desenvolvimento"
 draft: false
 tags:
     - Blog
     - Primeiro post
-    - Teste
-    - Isso é bom mesmo
+    - Sobre mim
 ---
 
-Aqui vai todo o conteúdo do seu blog, e você pode editar e escrever da maneira que mais gostar. Agora, como todo site deve ter, bora colocar um lorem ipsum:
+Olá, meu nome é Gabriel Stamato e sou mais um navegante nesse mar que é o desenvolvimento.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt hendrerit purus at elementum. Quisque sit amet malesuada felis. Proin ac fermentum lacus. Duis libero magna, iaculis ac semper id, volutpat ac mauris. Pellentesque ultricies lectus ut lectus eleifend fringilla. Nunc laoreet placerat pretium. Phasellus nec ultricies sem. Nunc pharetra ullamcorper elementum. Sed eget sem et nibh volutpat pharetra vel ac enim.
+No momento que estou escrevendo isso, tenho 31 anos, casado e tenho um enteado.
+
+Como você deve ter lido na Home desse blog (pelo menos espero que sim...rsrsrs), larguei uma carreira no ramo da distribuição de combustíveis para viver de desenvolvimento.
+
+Mas espera, não foi fácil assim. Vou te colocar em um contexto melhor.
+
+Sempre fui curioso, isso desde muito novo. Meu programa favorito para vc ter noção era o "Mundo de Beackman" (sim, eu era um pequeno e gordinho nerd). Adorava saber como as coisas funcionavam, como eram feitas e como poderiam ser melhoradas.
+
+Até que, no auge dos meus 8 anos, meu pai me colocou em um curso básico de informática. E lá estava ele, o gordinho nerd se achando o hacker porque estava criando uma pasta e digitando textos no MSDos. Sim, você não leu errado, MSDos, meu primeiro contato com um sistema operacional foi com o nostálgico Windows 95.
+
+Fui crescendo e sempre que podia, tentava aprender algo sobre computadores. Adorava aquelas revistas de banca que vinham com aqueles CD's que tinham 100 programas para aprender a se tornar um hacker. Me inspirava em grandes programadores como Tim Berness-Lee e Linus Torvalds. Na época o acesso a internet não era tão fácil, mas sempre que podia lia algum livro ou revista sobre sistemas operacionais e hardwares.
+
+Quando chegou a famigerada hora que todo adolescente passa, a de escolher a profissão. Eu não tinha nenhuma dúvida. Já sabia o que queria fazer. Engenharia da Computação e com ênfase em robótica (sim, eu queria criar o Exterminador antes da Skynet existir...rsrsrs). Mas como diria nosso amigo Joseph Climber (acho que poucos vão entender a referência): "A vida é uma caixinha de surpresas...". E por conta dessa caixinha eu não pude seguir com o sonho, mesmo tendo passado na primeira fase da UNESP.
+
+Foi aí que se abriu a porta de outra carreira. Comecei no ramo operacional de distribuição de combustível.
+
+Não vou mentir, foi uma fase boa. Gostava do que eu fazia. Aprendi muito. Ralei muito (subi em muito caminhão também). Mas ainda tinha aquele bichinho da curiosidade que me cutucava.
+
+Foi aí que em 2013 decidi: "Vou fazer faculdade". E comecei a estudar pro Enem. Sozinho mesmo. Vídeos no Youtube. Simulados online. Baixei muitas porvas antigas: Unicamp, Vunesp, Fuvest, Enem. E todo esse estudo deu resultado, consegui entrar no curso de Análise e Desenvolvimento de Sistemas no IFSP de Hortolândia.
+
+Mas, como eu citei antes, a vida é uma caixinha de surpresas, é precisei trancar o curso após terminar o 3o semestre.
+
+E o bichinho ainda estava lá. Não parei de estudar.
+
+Foi aí que pra complementar a renda (afinal já era um homem casado), comecei a pegar alguns freelas. Mesmo sem saber muita coisa, resolvi me aventurar. E fui levando assim minha vida dupla, de dia cuidando do estoque de distribuidoras de combustíveis, e no tempo livre que eu tinha, eu estava codando.
+
+E como a vida é uma caixinha de surpresas. Depois de milhares de nãos. Depois de quebrar muito a cara com freelas e com pessoas que não levavam meu trabalho a sério. Consegui meu primeiro emprego como desenvolvedor.
+
+Se você leu até aqui, muito obrigado.
+
+Se você está no começo da carreira como dev ou quer embarcar nessa universo que é a programação, saiba que você consegue. Fácil nunca vai ser. Mas se você realmente gosta desse mundo, embarca aí, que nesse mar sempre cabe mais um barco.
+
+Até o próximo post.

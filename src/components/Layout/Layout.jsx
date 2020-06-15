@@ -20,11 +20,11 @@ export default ({ children, title }) => (
         <aside className="aside">
           <Sidebar
             title="Sobre mim"
-            description="Sou um desenvolvedor apaixonado por JavaScript e amo desenvolver produtos que melhoram a vida das pessoas."
+            description="Apenas um cara que trocou um carreira de 12 anos no ramo de Distribuição de combustíveis para viver uma paixão... o Desenvolvimento."
           />
           <Sidebar
             title="Sobre o blog"
-            description="Aqui você encontará muito conteúdo de FrontEnd e CSS, além de umas dicas senasacionais de carreira!"
+            description="Aqui você vai encontrar algumas coisas que aprendi sobre desenvolvimento web e mais algumas coisas que aprendi durante a minha jornada."
           />
         </aside>
       </Container>
