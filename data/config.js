@@ -4,10 +4,11 @@ const config = {
     siteTitleShort: 'Gabriel Stamato',
     siteRss: "/rss.xml",
     siteImage: "https://gabrielstamato.netlify.com/banner-do-site.png",
-    googleAnalyticsID: "**-********-*",
+    googleAnalyticsID: "UA-169399991-1",
     themeColor: "#333",
     backgroundColor: "#F2F3F4",
-    siteUrl: "https://codestackbrasil.netlify.com",
+    siteUrl: "https://gabrielstamato.stamato7.vercel.app/",
   };
   
   module.exports = config;
+

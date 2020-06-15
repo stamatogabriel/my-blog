@@ -2,7 +2,7 @@ const config = require("./data/config");
 
 module.exports = {
   siteMetadata: {
-    siteUrl:'https://www.google.com',
+    siteUrl: config.siteUrl,
     title: config.siteTitle,
     description: config.siteDescription,
   },
