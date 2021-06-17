@@ -15,14 +15,6 @@ export default ({ title, description, url, article }) => {
       <Helmet title={seo.title}>
         <meta name="description" content={seo.description} />
         <meta name="image" content={seo.image} />
-        <noscript>
-          <iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-TQGNQ38"
-            height="0"
-            width="0"
-            style="display:none;visibility:hidden"
-          ></iframe>
-        </noscript>
         {seo.url && <meta property="og:url" content={seo.url} />}
         {article ? (
           <meta property="og:type" content="article" />
