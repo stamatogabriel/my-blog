@@ -7,21 +7,22 @@ export default ({ title, description, url, article }) => {
     title: title ? `${title} | ${config.siteTitle}` : config.siteTitle,
     description: description || config.siteDescription,
     image: config.siteImage,
-    url: url ? `${config.siteUrl}${url}` : '',
-  }
+    url: url ? `${config.siteUrl}${url}` : "",
+  };
 
   return (
     <>
-      <Helmet title={seo.title} >
+      <Helmet title={seo.title}>
         <meta name="description" content={seo.description} />
         <meta name="image" content={seo.image} />
-
-        <script>{(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-TQGNQ38')}</script>
-
+        <noscript>
+          <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-TQGNQ38"
+            height="0"
+            width="0"
+            style="display:none;visibility:hidden"
+          ></iframe>
+        </noscript>
         {seo.url && <meta property="og:url" content={seo.url} />}
         {article ? (
           <meta property="og:type" content="article" />
@@ -41,5 +42,5 @@ export default ({ title, description, url, article }) => {
         {seo.image && <meta name="twitter:image" content={seo.image} />}
       </Helmet>
     </>
-  )
-}
+  );
+};
